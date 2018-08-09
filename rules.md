@@ -34,11 +34,13 @@
 
 ## 5. League Hierarchy
 
-5.1  The FFDiscord Leagues are distributed into two "divisions": the Premier Division, and Division One. The Premier Division consists of a single 12-person league. Division One consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
+5.1.  The FFDiscord Leagues are distributed into two "divisions": the Premier Division, and Division One. The Premier Division consists of a single 12-person league. Division One consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
 
-5.2  Players only play against opponents within his or her league.
+5.2.  At the beginning of each season, all eligible players that are not within the Premier Division will be played into one of the leagues within Division One. Placement in those leagues is done by random draw.
 
-5.3  There is only one champion per league (i.e. no ties or co-champions).
+5.3.  Players only play against opponents within his or her league.
+
+5.4.  There is only one champion per league (i.e. no ties or co-champions).
 
 ## 6. Promotion/Relegation
 
