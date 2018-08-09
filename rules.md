@@ -1,4 +1,4 @@
-# FFDiscord League Rules 2018
+# FFDiscord League Rules
 
 ## 1. Object
 
@@ -56,8 +56,16 @@
 
 ## 8. Re-Entry
 
-8.1 If a player leaves the league for a season, when applying for re-entry, they will 
+8.1 If a player leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
+
+8.2 Players removed from the FFDiscord Leagues for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
 ## 9. League Growth and Expansion
 
+9.1. In future seasons, as the number of players increases, leagues will be added in Division One to accommodate the growth.
+
 ## 10. Player Conduct
+
+10.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated.
+
+10.2. Failure to comply with rule 10.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
