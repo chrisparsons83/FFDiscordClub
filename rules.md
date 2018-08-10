@@ -89,7 +89,7 @@
 
 6.2. Draft order will be determined by the members of each league so long as the order is agreed by majority vote to be sufficiently random.
 
-6.2b.: The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
+6.2b. The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
 
 6.3. The draft will be 15 rounds in a snake format.
 
@@ -190,13 +190,13 @@
 
 ## 13. League Hierarchy
 
-13.1.  The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-person league, known as the Champions League. Tier Two consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
+13.1. The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-person league, known as the Champions League. Tier Two consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
 
-13.2.  At the beginning of each season, all eligible players that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
+13.2. At the beginning of each season, all eligible players that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
 
-13.3.  Players only play against opponents within his or her league.
+13.3. Players only play against opponents within his or her league.
 
-13.4.  There is only one champion per league (i.e. no ties or co-champions).
+13.4. There is only one champion per league (i.e. no ties or co-champions).
 
 ## 14. Promotion/Relegation
 
@@ -204,11 +204,11 @@
 
 14.1b. With three leagues within Tier Two, the bottom six players will be relegated from the Champions League at the end of the season. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
 
-14.2 In the case of any vacancy in the Champions League, the first open spot will be given to one of the players that was the highest-finishing non-promoting player in their Tier Two league at the end of the season and meets all other requirements for membership. That player is drawn at random from the pool of players that are eligible. Subsequent spots will be drawn at random until that pool of players is exhausted. If further spots are needed, the process will be repeated with players that were the second-highest-finishing non-promoting player in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
+14.2. In the case of any vacancy in the Champions League, the first open spot will be given to one of the players that was the highest-finishing non-promoting player in their Tier Two league at the end of the season and meets all other requirements for membership. That player is drawn at random from the pool of players that are eligible. Subsequent spots will be drawn at random until that pool of players is exhausted. If further spots are needed, the process will be repeated with players that were the second-highest-finishing non-promoting player in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
 
-14.3.  Under no circumstance will a player who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant player realignment).
+14.3. Under no circumstance will a player who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant player realignment).
 
-14.4.  The promotion and relegation criteria for a given season will be determined and published before the start of the season.
+14.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
 
 ## 15. Rookie Managers
 
