@@ -99,7 +99,7 @@
 
 6.6. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same league to draft for them or they may autodraft.
 
-6.7. League drafts will start at the agreed upon time. It is the player's responsibility to make sure they are available.
+6.7. League drafts will start at the agreed upon time. It is the member's responsibility to make sure they are available.
 
 ## 7. Waivers
 
@@ -129,7 +129,7 @@
 
 8.4b. If a commissioner is involved in the trade that is being reviewed, they will recuse themselves from the review.
 
-8.5. If players are deemed to have colluded, both players are immediately removed from the Association.
+8.5. If members are deemed to have colluded, both members are immediately removed from the Association.
 
 8.6. Players cannot be traded for FAAB budget.
 
@@ -155,17 +155,17 @@
 
 10.4. Empty lineup slots are permitted for strategic purposes. Examples include, but not limited to: benching a Monday night player when they are ahead of their opponent who does not have any more active players, not playing a kicker because they don't want to drop a player, playing a player on bye because they don't want to drop a player. Players that are going to play an empty lineup spot for strategic purposes need to declare their intent to a Commissioner or in the main FFDiscord Association channel.
 
-10.5. Players that do not field a valid lineup must explain their reason, whether it be intentional or unintentional, before waivers clear the following week. Players that fail to do this will have their team considered abandoned, and eligible for mid-season replacement.
+10.5. Members that do not field a valid lineup must explain their reason, whether it be intentional or unintentional, before waivers clear the following week. Members that fail to do this will have their team considered abandoned, and eligible for mid-season replacement.
 
-10.5b. If a player explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
+10.5b. If a member explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
 
 10.6. Teams eligible for mid-season replacement will be filled in the following order:
-1. Players that waitlisted but did not receive a team.
-2. Players that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
+1. Potential members that waitlisted but did not receive a team.
+2. Potential members that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
 
 10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
 
-10.7. Players that fill a team mid-season will be given priority registration for the following season.
+10.7. Members that fill a team mid-season will be given priority registration for the following season.
 
 ## 11. Tiebreakers
 
@@ -192,39 +192,39 @@
 
 ## 13. League Hierarchy
 
-13.1. The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-person league, known as the Champions League. Tier Two consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
+13.1. The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-member league, known as the Champions League. Tier Two consists of multiple 12-member leagues, and can vary in quantity of leagues from season to season.
 
-13.2. At the beginning of each season, all eligible players that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
+13.2. At the beginning of each season, all eligible members that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
 
-13.3. Players only play against opponents within his or her league.
+13.3. Members only play against opponents within his or her league.
 
 13.4. There is only one champion per league (i.e. no ties or co-champions).
 
 ## 14. Promotion/Relegation
 
-14.1. At the end of each season, a certain number of top and bottom players in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
+14.1. At the end of each season, a certain number of top and bottom members in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
 
-14.1b. With three leagues within Tier Two, the bottom six players will be relegated from the Champions League at the end of the season. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
+14.1b. With three leagues within Tier Two, the bottom six finishers will be relegated from the Champions League at the end of the season. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
 
-14.2. In the case of any vacancy in the Champions League, the first open spot will be given to one of the players that was the highest-finishing non-promoting player in their Tier Two league at the end of the season and meets all other requirements for membership. That player is drawn at random from the pool of players that are eligible. Subsequent spots will be drawn at random until that pool of players is exhausted. If further spots are needed, the process will be repeated with players that were the second-highest-finishing non-promoting player in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
+14.2. In the case of any vacancy in the Champions League, the first open spot will be given to one of the members that was the highest-finishing non-promoting member in their Tier Two league at the end of the season and meets all other requirements for membership. That member is drawn at random from the pool of members that are eligible. Subsequent spots will be drawn at random until that pool of members is exhausted. If further spots are needed, the process will be repeated with members that were the second-highest-finishing non-promoting member in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
 
-14.3. Under no circumstance will a player who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant player realignment).
+14.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant member realignment).
 
 14.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
 
-## 15. Rookie Managers
+## 15. Rookie Members
 
-15.1. New Managers to the FFDiscord Association will begin in Tier Two.
+15.1. New members to the FFDiscord Association will begin in Tier Two.
 
 ## 16. Re-Entry
 
-16.1. If a player leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
+16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
 
-16.2. Players removed from the FFDiscord Association for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
+16.2. Members removed from the FFDiscord Association for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
 ## 17. League Growth and Expansion
 
-17.1. In future seasons, as the number of players increases, leagues will be added in Tier Two to accommodate the growth.
+17.1. In future seasons, as the number of members increases, leagues will be added in Tier Two to accommodate the growth.
 
 ## 18. Player Conduct
 
