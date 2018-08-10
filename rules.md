@@ -22,15 +22,80 @@
 
 ## 4. League Settings
 
-### 4a Scoring
+### 4a. Rosters
 
-### 4b Draft
+### 4b. Scoring
 
-### 4c Waivers
+4a.1 All leagues will follow the decimal scoring system below.
 
-### 4d Season Length
+#### Passing
+* 1 point for every 25 Passing Yards (0.04 per)
+* 2 points for every 2pt Conversion Passing
+* 4 points for every Passing TD
+* -2 points for every interception
 
-### 4e Playoffs
+#### Rushing
+* 1 point for every 10 Rushing Yards (0.1 per)
+* 2 points for every 2pt Conversion Rushing
+* 6 points for every Rushing TD
+
+#### Receiving
+* 0.5 points for every Reception
+* 1 point for every 10 Receiving Yards (0.1 per)
+* 2 points for every 2pt Conversion Receiving
+* 6 points for every Receiving TD
+
+#### Other Offense
+* -2 points for every Fumble Lost
+* 6 points for every Offensive Fumble Recovery TD
+
+#### Kicking
+* 1 point for every Extra Point Made
+* -1 point for every Extra Point Missed
+* 3 points for every Field Goal Made Between 0-39 Yards
+* 4 points for every Field Goal Made Between 40-49 Yards
+* 5 points for every Field Goal Made Between 50-100 Yards
+* -1 point for every Field Goal Missed Between 0-39 Yards
+
+### Defense/Special Teams
+* 6 points for every Defensive TD from an Interception
+* 6 points for every Defensive TD from a Fumble Recovery
+* 8 points for every Punt Return TD
+* 8 points for every Kick Return TD
+* 2 points for every Interception
+* 2 points for every Fumble Recovered
+* 4 points for every Safety
+* 4 points for every 2pt Conversion Return
+* 1 point for every Sack
+* 3 points for every Blocked Kick
+* 0.25 points for every Tackle for Loss
+* 0.25 points for every Pass Defended
+
+### 4c Draft
+
+4c.1. Draft Date/Time will be determined by the members of each division to accommodate all members as best possible. It may not be possible to accommodate all members, but the goal is to accommodate the most members.
+
+4c.2. Draft order will be determined by the members of each division so long as the order is agreed by majority vote to be sufficiently random.
+
+4c.2b.: The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
+
+4c.3. The draft will be 15 rounds in a snake format.
+
+4c.4. Draft picks cannot be traded.
+
+4c.5. There are no requirements to fill every starting position.
+
+4c.6. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same division to draft for them or they may autodraft.
+
+4c.7. If a member does not attend the draft and does not provide notice otherwise, the members who are in attendance must wait a minimum of 15 minutes from the original draft time and then a vote may be called to decide if the team should be autodrafted or if a neutral 3rd party within the discord should draft in the absent member’s place.
+
+### 4d Waivers
+
+### 4e Season Length
+
+### 4f Tiebreakers
+
+### 4g Playoffs
 
 ## 5. League Hierarchy
 
