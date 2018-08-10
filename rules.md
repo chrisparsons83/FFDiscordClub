@@ -229,3 +229,13 @@
 18.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated. Don't rage quit and drop all of your players when your team is out of the playoffs.
 
 18.2. Failure to comply with rule 10.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
+
+## 19. Rules
+
+19.1. Any situation not covered within the rules outlined above will be determined by the Commissioners of the Association.  Their decision is final.
+
+19.1b. If there is any rule clarification that directly involves a commissioner, the commissioner in question will recuse himself from the decision.
+
+19.1c. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
+
+19.2. Any rules changes may be suggested to the Commissioners by players, but all rules changes will ultimately be determined by the Commissioners.
