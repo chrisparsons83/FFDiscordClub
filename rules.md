@@ -165,6 +165,8 @@
 
 10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
 
+10.7. Players that fill a team mid-season will be given priority registration for the following season.
+
 ## 11. Tiebreakers
 
 11.1. There are no tiebreaker settings for regular season matches as fractional scoring does not frequently yield ties.
