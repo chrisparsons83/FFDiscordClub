@@ -12,7 +12,7 @@
 
 ## 3. Membership
 
-3.1. The FFDiscord Association are a public set of leagues. In order to join the Association, you must be a member of the FFDiscord server throughout the season.
+3.1. The FFDiscord Association is a public set of leagues. In order to join the Association, you must be a member of the FFDiscord server throughout the season.
 
 3.2. Members from the previous season will be given a period of one week after registration is opened for priority placement.
 
