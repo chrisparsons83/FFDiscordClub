@@ -85,9 +85,9 @@
 
 ## 6. Draft
 
-6.1. Draft Date/Time will be determined by the members of each league to accommodate all members as best as possible. It may not be possible to accommodate all members, but the goal is to accommodate the most members.
+6.1. Draft Date/Time will be determined by the members of each individual league to accommodate all members as best as possible. It may not be possible to accommodate all members, but the goal is to accommodate the most members.
 
-6.2. Draft order will be determined by the members of each league so long as the order is agreed by majority vote to be sufficiently random.
+6.2. Draft order will be determined by the members of each individual league so long as the order is agreed by majority vote to be sufficiently random.
 
 6.2b. The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
 
