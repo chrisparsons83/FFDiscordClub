@@ -1,24 +1,24 @@
-# FFDiscord League Rules
+# FFDiscord Association Rules
 
 ## 1. Object
 
-1.1. The object of the FFDiscord League is to win head-to-head matches of fantasy football, win promotions to the premier league, and win the premier league to be crowned the FFDiscord League Champion.
+1.1. The object of the FFDiscord Association is to win head-to-head matches of fantasy football, win promotions to Tier One, and win the premier league to be crowned the FFDiscord Association Champion.
 
 ## 2. Commissioners
 
-2.1. The commissioners of the 2018 league are the following users: IceMaine, Christhrowsrocks, Madmike.
+2.1. The commissioners of the FFDiscord Association are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108).
 
 2.2. Changes to the commissioners are determined by the current body of commissioners, and are limited to members with the Administrator role within the FFDiscord server.
 
 ## 3. Membership
 
-3.1. The FFDiscord Leagues are a public set of leagues. In order to join the league, you must be a member of the FFDiscord server throughout the season.
+3.1. The FFDiscord Association are a public set of leagues. In order to join the Association, you must be a member of the FFDiscord server throughout the season.
 
 3.2. Members from the previous season will be given a period of one week after registration is opened for priority placement.
 
 3.3. After priority placement of members of the previous season, new members are added based on their registration submission date and time.
 
-3.4. The commissioners reserve the right to limit the number of divisions that are run within a season. Reasons for this include, but are not limited to, balance of levels, and logistics of managing the size of the overall league.
+3.4. The commissioners reserve the right to limit the number of leagues that are run within a season. Reasons for this include, but are not limited to: balancing the number of leagues for even numbers for promotion and relegation, and logistics of managing the size of the overall league.
 
 ## 4. Rosters
 
@@ -58,6 +58,8 @@
 ### Other Offense
 * -2 points for every Fumble Lost
 * 6 points for every Offensive Fumble Recovery TD
+* 6 points for every Punt Return TD
+* 6 points for every Kick Return TD
 
 ### Kicking
 * 1 point for every Extra Point Made
@@ -83,9 +85,9 @@
 
 ## 6. Draft
 
-6.1. Draft Date/Time will be determined by the members of each division to accommodate all members as best possible. It may not be possible to accommodate all members, but the goal is to accommodate the most members.
+6.1. Draft Date/Time will be determined by the members of each league to accommodate all members as best as possible. It may not be possible to accommodate all members, but the goal is to accommodate the most members.
 
-6.2. Draft order will be determined by the members of each division so long as the order is agreed by majority vote to be sufficiently random.
+6.2. Draft order will be determined by the members of each league so long as the order is agreed by majority vote to be sufficiently random.
 
 6.2b.: The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
 
@@ -95,15 +97,15 @@
 
 6.5. There are no requirements to fill every starting position.
 
-6.6. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same division to draft for them or they may autodraft.
+6.6. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same league to draft for them or they may autodraft.
 
-6.7. If a member does not attend the draft and does not provide notice otherwise, the members who are in attendance must wait a minimum of 15 minutes from the original draft time and then a vote may be called to decide if the team should be autodrafted or if a neutral 3rd party within the discord should draft in the absent member’s place.
+6.7. League drafts will start at the agreed upon time. It is the player's responsibility to make sure they are available.
 
 ## 7. Waivers
 
 7.1. Waivers will open up immediately upon the conclusion of the draft.
 
-7.2. FFDiscord Leagues will operate under a FAAB system.  Bids will be processed overnight Tuesday. Any remaining players after bids are processed will be free agents.
+7.2. FFDiscord Association leagues will operate under a FAAB system.  Bids will be processed overnight Tuesday. Any remaining players after bids are processed will be free agents.
 
 7.3. All teams will have a $100 FAAB budget to spend over the entire season.
 
@@ -111,7 +113,9 @@
 
 7.5. If there is a tie between multiple teams on the amount bid for a player, the tiebreaker is determined by the inverse order of standings.
 
-7.6. It is expected that all players in the NFL universe may be rostered. This rule may be dependent on the hosting site in question. FFDiscord commissioners do not have control over adding players into the system that are missing.
+7.6. It is expected that all players in the NFL universe may be rostered. This rule may be dependent on the hosting site in question. FFDiscord Association commissioners do not have control over adding players into the system that are missing.
+
+7.7. There is no limit on the number of acquisitions that can be performed over the season.
 
 ## 8. Trading
 
@@ -121,91 +125,107 @@
 
 8.3 If collusion is suspected (a trade where both teams are working together to improve only one team) any member can request a trade review. A lopsided trade will not be grounds for trade review.
 
-8.4. The trade review will be run by the commissioners of the league.
+8.4. The trade review will be run by the commissioners of the Association.
 
 8.4b. If a commissioner is involved in the trade that is being reviewed, they will recuse themselves from the review.
 
-8.5. If players are deemed to have colluded, both players are immediately removed from the league.
+8.5. If players are deemed to have colluded, both players are immediately removed from the Association.
 
 8.6. Players cannot be traded for FAAB budget.
 
 8.7. There is no limit on the number of trades that can be performed.
 
-## 9. Season Length
+## 9. Regular Season
 
 9.1. The regular season will last through Week 13 of the NFL regular season.
 
 9.2. The head-to-head matchup schedule will be auto-generated by Sleeper.
 
-9.3 Each team is expected to field a valid lineup (no bye week players, no players on IR from any week prior). See rule 9.5 for situations where an empty slot is allowed.
+9.3. There are no divisions within a league. All teams will be in a single group.
 
-9.4 In the event of a computer failure, the league member must contact the commissioner via email or phone to request a roster substitution.  The substitution must be made prior to each player locking.  In the event of a request made before a lock, but the commissioner cannot address it before it locks, the commissioner will inform the member’s opponent of the situation, and retroactively set the roster.
+9.4. Weekly head-to-head matchups will be determined by the points scored by a team's starters.
 
-9.5. The only time an empty roster spot is permitted is when a member is already beating an opponent who has no players remaining for the week.
+## 10. Valid Lineups
 
-9.6. Lineups lock individually at scheduled game time.
+10.1. Lineups lock individually at scheduled game time.
 
-9.7. Weekly head-to-head matchups will be determined by starters points scored.
+10.2. Each team is expected to field a valid lineup (no bye week players, no players on IR from any week prior). See rule 9.5 for situations where an empty slot is allowed.
 
-9.8. There are no tiebreaker settings for the regular season as fractional scoring does not frequently yield ties.
+10.3. In the event of a computer failure, the league member must contact a Commissioner via Discord to request a lineup substitution.  The substitution must be made prior to each player locking.  The lineup substitution request must not be an edited message so the timestamp can be verified. In the event of a request made before a lock, but the commissioner cannot address it before it locks, the commissioner will inform the member’s opponent of the situation, and retroactively set the lineup.
 
-## 10. Tiebreakers
+10.4. Empty lineup slots are permitted for strategic purposes. Examples include, but not limited to: benching a Monday night player when they are ahead of their opponent who does not have any more active players, not playing a kicker because they don't want to drop a player, playing a player on bye because they don't want to drop a player. Players that are going to play an empty lineup spot for strategic purposes need to declare their intent to a Commissioner or in the main FFDiscord Association channel.
 
-10.1. Tiebreakers for playoff seeds are broken in the following order:
+10.5. Players that do not field a valid lineup must explain their reason, whether it be intentional or unintentional, before waivers clear the following week. Players that fail to do this will have their team considered abandoned, and eligible for mid-season replacement.
+
+10.5b. If a player explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
+
+10.6. Teams eligible for mid-season replacement will be filled in the following order:
+1. Players that waitlisted but did not receive a team.
+2. Players that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
+
+10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
+
+## 11. Tiebreakers
+
+11.1. There are no tiebreaker settings for regular season matches as fractional scoring does not frequently yield ties.
+
+11.2. Tiebreakers for playoff seeds are broken in the following order:
 1. Overall Record
 2. Points For
 3. Points Against
 
-10.2. If a playoff match is tied, then the higher seed will advance.
+11.3. If a playoff match is tied, then the higher seed will advance.
 
-## 11. Playoffs
+## 12. Playoffs
 
-11.1. The playoffs will begin with NFL Week 14 and end on NFL Week 16.
+12.1. The playoffs will begin with NFL Week 14 and end on NFL Week 16.
 
-11.2. The six teams with the best regular season records will be eligible for the playoffs. Ties are broken based on the tiebreaking system in rule 10.1.
+12.2. The six teams with the best regular season records within each league will be eligible for the playoffs. Ties are broken based on the tiebreaking system in rule 10.1.
 
-11.3. The top two seeds will receive a bye in the first round.
+12.3. The top two seeds will receive a bye in the first round.
 
-11.4. Playoffs matches will be one-week playoff games.
+12.4. Playoff matches will be one-week playoff games.
 
-11.5. Playoffs will be reseeded after each week.
+12.5. Playoffs will be reseeded after each week.
 
-## 12. League Hierarchy
+## 13. League Hierarchy
 
-12.1.  The FFDiscord Leagues are distributed into two "divisions": the Premier Division, and Division One. The Premier Division consists of a single 12-person league. Division One consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
+13.1.  The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-person league, known as the Champions League. Tier Two consists of multiple 12-person leagues, and can vary in quantity of leagues from season to season.
 
-12.2.  At the beginning of each season, all eligible players that are not within the Premier Division will be played into one of the leagues within Division One. Placement in those leagues is done by random draw.
+13.2.  At the beginning of each season, all eligible players that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
 
-12.3.  Players only play against opponents within his or her league.
+13.3.  Players only play against opponents within his or her league.
 
-12.4.  There is only one champion per league (i.e. no ties or co-champions).
+13.4.  There is only one champion per league (i.e. no ties or co-champions).
 
-## 13. Promotion/Relegation
+## 14. Promotion/Relegation
 
-13.1. At the end of each season, a certain number of top and bottom players in each division will be promoted/relegated to the next higher/lower division. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal divisions and league pyramid structure.
+14.1. At the end of each season, a certain number of top and bottom players in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
 
-13.2 In the case of any vacancy in the Premier Division, the first open spot will be given to one of the players that finished 3rd in their Division One league at the end of the season and meets all other requirements for membership. That player is drawn at random from the pool of players that are eligible. Subsequent spots will be drawn at random until that pool of players is exhausted. If further spots are needed, the process will be repeated with players that finished 4th in their Division One league at the end of the season. This will continue until there is a full roster of 12 for the Premier Division.
+14.1b. With three leagues within Tier Two, the bottom six players will be relegated from the Champions League at the end of the season. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
 
-13.3.  Under no circumstance will a player who finishes in the relegation zone of a division return to that division the following season (except during seasons which involve significant player realignment).
+14.2 In the case of any vacancy in the Champions League, the first open spot will be given to one of the players that was the highest-finishing non-promoting player in their Tier Two league at the end of the season and meets all other requirements for membership. That player is drawn at random from the pool of players that are eligible. Subsequent spots will be drawn at random until that pool of players is exhausted. If further spots are needed, the process will be repeated with players that were the second-highest-finishing non-promoting player in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
 
-13.4.  The promotion and relegation criteria for a given season will be determined and published before the start of the season.
+14.3.  Under no circumstance will a player who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant player realignment).
 
-## 14. Rookies
+14.4.  The promotion and relegation criteria for a given season will be determined and published before the start of the season.
 
-14.1. Rookies will begin in Division One.
+## 15. Rookie Managers
 
-## 15. Re-Entry
+15.1. New Managers to the FFDiscord Association will begin in Tier Two.
 
-15.1 If a player leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
+## 16. Re-Entry
 
-8.2 Players removed from the FFDiscord Leagues for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
+16.1. If a player leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
 
-## 16. League Growth and Expansion
+16.2. Players removed from the FFDiscord Association for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
-9.1. In future seasons, as the number of players increases, leagues will be added in Division One to accommodate the growth.
+## 17. League Growth and Expansion
 
-## 17. Player Conduct
+17.1. In future seasons, as the number of players increases, leagues will be added in Tier Two to accommodate the growth.
 
-10.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated.
+## 18. Player Conduct
 
-10.2. Failure to comply with rule 10.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
+18.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated. Don't rage quit and drop all of your players when your team is out of the playoffs.
+
+18.2. Failure to comply with rule 10.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
