@@ -149,7 +149,7 @@
 
 10.1. Lineups lock individually at scheduled game time.
 
-10.2. Each team is expected to field a valid lineup (no bye week players, no players on IR from any week prior). See rule 9.5 for situations where an empty slot is allowed.
+10.2. Each team is expected to field a valid lineup (no bye week players, no players on IR). See rule 10.5 for situations where an empty lineup slot is allowed.
 
 10.3. In the event of a computer failure, the league member must contact a Commissioner via Discord to request a lineup substitution.  The substitution must be made prior to each player locking.  The lineup substitution request must not be an edited message so the timestamp can be verified. In the event of a request made before a lock, but the commissioner cannot address it before it locks, the commissioner will inform the member’s opponent of the situation, and retroactively set the lineup.
 
