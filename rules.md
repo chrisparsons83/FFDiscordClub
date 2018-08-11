@@ -1,18 +1,18 @@
-# FFDiscord Association Rules
+# FFDiscord Club Rules
 
 ## 1. Object
 
-1.1. The object of the FFDiscord Association is to win head-to-head matches of fantasy football, win promotions to Tier One, and win the premier league to be crowned the FFDiscord Association Champion.
+1.1. The object of the FFDiscord Club is to win head-to-head matches of fantasy football, win promotions to Tier One, and win the premier league to be crowned the FFDiscord Club Champion.
 
 ## 2. Commissioners
 
-2.1. The commissioners of the FFDiscord Association are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108).
+2.1. The commissioners of the FFDiscord Club are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108).
 
 2.2. Changes to the commissioners are determined by the current body of commissioners, and are limited to members with the Administrator role within the FFDiscord server.
 
 ## 3. Membership
 
-3.1. The FFDiscord Association is a public set of leagues. In order to join the Association, you must be a member of the FFDiscord server throughout the season.
+3.1. The FFDiscord Club is a public set of leagues. In order to join the Club, you must be a member of the FFDiscord server throughout the season.
 
 3.2. Members from the previous season will be given a period of one week after registration is opened for priority placement.
 
@@ -105,7 +105,7 @@
 
 7.1. Waivers will open up immediately upon the conclusion of the draft.
 
-7.2. FFDiscord Association leagues will operate under a FAAB system.  Bids will be processed overnight Tuesday. Any remaining players after bids are processed will be free agents.
+7.2. FFDiscord Club leagues will operate under a FAAB system.  Bids will be processed overnight Tuesday. Any remaining players after bids are processed will be free agents.
 
 7.3. All teams will have a $100 FAAB budget to spend over the entire season, which includes the regular season and the playoffs.
 
@@ -113,7 +113,7 @@
 
 7.5. If there is a tie between multiple teams on the amount bid for a player, the tiebreaker is determined by the inverse order of standings.
 
-7.6. It is expected that all players in the NFL universe may be rostered. This rule may be dependent on the hosting site in question. FFDiscord Association commissioners do not have control over adding players into the system that are missing.
+7.6. It is expected that all players in the NFL universe may be rostered. This rule may be dependent on the hosting site in question. FFDiscord Club commissioners do not have control over adding players into the system that are missing.
 
 7.7. There is no limit on the number of acquisitions that can be performed over the season.
 
@@ -125,11 +125,11 @@
 
 8.3 If collusion is suspected (a trade where both teams are working together to improve only one team) any member can request a trade review. A lopsided trade will not be grounds for trade review.
 
-8.4. The trade review will be run by the commissioners of the Association.
+8.4. The trade review will be run by the commissioners of the Club.
 
 8.4b. If a commissioner is involved in the trade that is being reviewed, they will recuse themselves from the review.
 
-8.5. If members are deemed to have colluded, both members are immediately removed from the Association.
+8.5. If members are deemed to have colluded, both members are immediately removed from the Club.
 
 8.6. Players cannot be traded for FAAB budget.
 
@@ -153,14 +153,14 @@
 
 10.3. In the event of a computer failure, the league member must contact a Commissioner via Discord to request a lineup substitution.  The substitution must be made prior to each player locking.  The lineup substitution request must not be an edited message so the timestamp can be verified. In the event of a request made before a lock, but the commissioner cannot address it before it locks, the commissioner will inform the member’s opponent of the situation, and retroactively set the lineup.
 
-10.4. Empty lineup slots are permitted for strategic purposes. Examples include, but not limited to: benching a Monday night player when they are ahead of their opponent who does not have any more active players, not playing a kicker because they don't want to drop a player, playing a player on bye because they don't want to drop a player. Players that are going to play an empty lineup spot for strategic purposes need to declare their intent to a Commissioner or in the main FFDiscord Association channel.
+10.4. Empty lineup slots are permitted for strategic purposes. Examples include, but not limited to: benching a Monday night player when they are ahead of their opponent who does not have any more active players, not playing a kicker because they don't want to drop a player, playing a player on bye because they don't want to drop a player. Players that are going to play an empty lineup spot for strategic purposes need to declare their intent to a Commissioner or in the main FFDiscord Club channel.
 
 10.5. Members that do not field a valid lineup must explain their reason, whether it be intentional or unintentional, before waivers clear the following week. Members that fail to do this will have their team considered abandoned, and eligible for mid-season replacement.
 
 10.5b. If a member explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
 
 10.6. Teams eligible for mid-season replacement will be filled in the following order:
-1. Potential members that waitlisted for the FFDiscord Association but did not receive a team.
+1. Potential members that waitlisted for the FFDiscord Club but did not receive a team.
 2. Potential members that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
 
 10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
@@ -190,7 +190,7 @@
 
 ## 13. League Hierarchy
 
-13.1. The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-member league, known as the Champions League. Tier Two consists of multiple 12-member leagues, and can vary in quantity of leagues from season to season.
+13.1. The FFDiscord Club is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-member league, known as the Champions League. Tier Two consists of multiple 12-member leagues, and can vary in quantity of leagues from season to season.
 
 13.2. At the beginning of each season, all eligible members that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
 
@@ -212,13 +212,13 @@
 
 ## 15. Rookie Members
 
-15.1. New members to the FFDiscord Association will begin in Tier Two.
+15.1. New members to the FFDiscord Club will begin in Tier Two.
 
 ## 16. Re-Entry
 
 16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
 
-16.2. Members removed from the FFDiscord Association for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
+16.2. Members removed from the FFDiscord Club for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
 ## 17. League Growth and Expansion
 
@@ -232,10 +232,10 @@
 
 ## 19. Rules
 
-19.1. Any situation not covered within the rules outlined above will be determined by the Commissioners of the Association.  Their decision is final.
+19.1. Any situation not covered within the rules outlined above will be determined by the Commissioners of the Club.  Their decision is final.
 
 19.1b. If there is any rule clarification that directly involves a commissioner, the commissioner in question will recuse himself from the decision.
 
 19.1c. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
 
-19.2. Any rules changes may be suggested to the Commissioners by players, but all rules changes will ultimately be determined by the Commissioners.
+19.2. Any rules changes may be suggested to the Commissioners by members, but all rules changes will ultimately be determined by the Commissioners.
