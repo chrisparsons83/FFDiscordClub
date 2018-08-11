@@ -228,7 +228,7 @@
 
 18.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated. Don't rage quit and drop all of your players when your team is out of the playoffs.
 
-18.2. Failure to comply with rule 10.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
+18.2. Failure to comply with rule 18.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
 
 ## 19. Rules
 
