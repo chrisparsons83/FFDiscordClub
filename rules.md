@@ -202,7 +202,7 @@
 
 14.1. At the end of each season, a certain number of top and bottom members in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
 
-14.1b. With three leagues within Tier Two, the bottom six finishers will be relegated from the Champions League at the end of the season. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
+14.1b. With three leagues within Tier Two, the bottom six finishers at the end of the season will be relegated from the Champions League down to Tier Two. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
 
 14.2. In the case of any vacancy in the Champions League, the first open spot will be given to one of the members that was the highest-finishing non-promoting member in their Tier Two league at the end of the season and meets all other requirements for membership. That member is drawn at random from the pool of members that are eligible. Subsequent spots will be drawn at random until that pool of members is exhausted. If further spots are needed, the process will be repeated with members that were the second-highest-finishing non-promoting member in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
 
