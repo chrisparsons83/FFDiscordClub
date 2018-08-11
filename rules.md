@@ -160,7 +160,7 @@
 10.5b. If a member explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
 
 10.6. Teams eligible for mid-season replacement will be filled in the following order:
-1. Potential members that waitlisted but did not receive a team.
+1. Potential members that waitlisted for the FFDiscord Association but did not receive a team.
 2. Potential members that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
 
 10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
