@@ -188,8 +188,6 @@
 
 12.4. Playoff matches will be one-week playoff games.
 
-12.5. Playoffs will be reseeded after each week.
-
 ## 13. League Hierarchy
 
 13.1. The FFDiscord Association is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-member league, known as the Champions League. Tier Two consists of multiple 12-member leagues, and can vary in quantity of leagues from season to season.
