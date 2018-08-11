@@ -182,7 +182,7 @@
 
 12.1. The playoffs will begin with NFL Week 14 and end at the conclusion of NFL Week 16.
 
-12.2. The six teams with the best regular season records within each league will be eligible for the playoffs. Ties are broken based on the tiebreaking system in rule 10.1.
+12.2. The six teams with the best regular season records within each individual league will be eligible for the playoffs. Ties are broken based on the tiebreaking system in rule 11.2.
 
 12.3. The top two seeds will receive a bye in the first round.
 
