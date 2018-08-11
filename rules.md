@@ -107,7 +107,7 @@
 
 7.2. FFDiscord Association leagues will operate under a FAAB system.  Bids will be processed overnight Tuesday. Any remaining players after bids are processed will be free agents.
 
-7.3. All teams will have a $100 FAAB budget to spend over the entire season.
+7.3. All teams will have a $100 FAAB budget to spend over the entire season, which includes the regular season and the playoffs.
 
 7.4. The minimum bid for a waiver is $0.
 
