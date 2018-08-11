@@ -172,9 +172,9 @@
 11.1. There are no tiebreaker settings for regular season matches as fractional scoring does not frequently yield ties.
 
 11.2. Tiebreakers for playoff seeds are broken in the following order:
-1. Overall Record
-2. Points For
-3. Points Against
+1. Highest Overall Record
+2. Most Points For
+3. Most Points Against
 
 11.3. If a playoff match is tied, then the higher seed will advance.
 
