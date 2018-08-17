@@ -14,6 +14,8 @@
 
 3.1. The FFDiscord Club is a public set of leagues. In order to join the Club, you must be a member of the FFDiscord server throughout the season.
 
+3.1a. The majority of communication for the FFDiscord Club is done through the FFDiscord server. It is expected that members are reasonably active and responsive to inquiries through the server.
+
 3.2. Members from the previous season will be given a period of one week after registration is opened for priority placement.
 
 3.3. After priority placement of members of the previous season, new members are added based on their registration submission date and time.
@@ -103,15 +105,19 @@
 
 6.2b. The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
 
-6.3. The draft will be 15 rounds in a snake format.
+6.3. It is important that members respond in a reasonable amount of time at the point when the leagues are being created and draft times are being selected. Members that don't respond within 72 hours for selecting preferred draft times or aren't signed up for their leagues 72 hours before the draft is scheduled to start may be replaced via the waitlist.
 
-6.4. Draft picks cannot be traded.
+6.4. The draft will be 15 rounds in a snake format.
 
-6.5. There are no requirements to fill every starting position.
+6.5. All drafts will be run using a 2-minute pick timer.
 
-6.6. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same league to draft for them or they may autodraft.
+6.6. Draft picks cannot be traded.
 
-6.7. League drafts will start at the agreed upon time. It is the member's responsibility to make sure they are available.
+6.7. There are no requirements to fill every starting position.
+
+6.8. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same league to draft for them or they may autodraft.
+
+6.9. League drafts will start at the agreed upon time. It is the member's responsibility to make sure they are available.
 
 ## 7. Waivers
 
