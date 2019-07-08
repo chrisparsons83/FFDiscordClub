@@ -108,7 +108,7 @@
 
 6.7. There are no requirements to fill every starting position.
 
-6.8. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same league to draft for them or they may autodraft.
+6.8. If a member cannot attend the draft and it is acceptable to them, they may appoint a designee that is not within the same league to draft for them, or they may autodraft.
 
 6.9. League drafts will start at the agreed upon time. It is the member's responsibility to make sure they are available.
 
