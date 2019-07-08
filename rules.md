@@ -83,9 +83,9 @@
 * 1 point for every Sack
 * 3 points for every Blocked Kick
 * 0.50 points for every Tackle for Loss
-* -1 points for 350-399 Total Yards Allowed
-* -2 points for 400-499 Total Yards Allowed
-* -3 points for 500+ Total Yards Allowed
+* -1 points for 350-449 Total Yards Allowed
+* -2 points for 450-549 Total Yards Allowed
+* -3 points for 550+ Total Yards Allowed
 * -1 points for Points Allowed 21-27
 * -2 points for Points Allowed 28-34
 * -3 points for Points Allowed 35+
