@@ -83,17 +83,11 @@
 * 1 point for every Sack
 * 3 points for every Blocked Kick
 * 0.50 points for every Tackle for Loss
-* 0.25 points for every Pass Defended
-* -0.5 points for 350-399 Total Yards Allowed
-* -1 points for 400-449 Total Yards Allowed
-* -1.5 points for 450-499 Total Yards Allowed
-* -2 points for 500-549 Total Yards Allowed
-* -2.5 points for 550+ Total Yards Allowed
-* -0.5 points for Points Allowed 1-6
-* -1 point for Points Allowed 7-13
-* -1.5 points for Points Allowed 14-20
-* -2 points for Points Allowed 21-27
-* -2.5 points for Points Allowed 28-34
+* -1 points for 350-399 Total Yards Allowed
+* -2 points for 400-499 Total Yards Allowed
+* -3 points for 500+ Total Yards Allowed
+* -1 points for Points Allowed 21-27
+* -2 points for Points Allowed 28-34
 * -3 points for Points Allowed 35+
 
 ## 6. Draft
