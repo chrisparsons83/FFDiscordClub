@@ -6,7 +6,7 @@
 
 ## 2. Commissioners
 
-2.1. The commissioners of the FFDiscord Club are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (mikeo#2104).
+2.1. The commissioners of the FFDiscord Club are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108).
 
 2.2. Changes to the commissioners are determined by the current body of commissioners, and are limited to members with the Administrator role within the FFDiscord server.
 
