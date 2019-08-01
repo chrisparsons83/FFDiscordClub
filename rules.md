@@ -66,9 +66,8 @@
 ### Kicking
 * 1 point for every Extra Point Made
 * -1 point for every Extra Point Missed
-* 3 points for every Field Goal Made Between 0-39 Yards
-* 4 points for every Field Goal Made Between 40-49 Yards
-* 5 points for every Field Goal Made Between 50-100 Yards
+* 3 points for every Field Goal Made
+* 0.1 point for every Field Goal Made yard over 30
 * -1 point for every Field Goal Missed Between 0-39 Yards
 
 ### Defense/Special Teams
@@ -79,7 +78,6 @@
 * 2 points for every Interception
 * 2 points for every Fumble Recovered
 * 4 points for every Safety
-* 4 points for every 2pt Conversion Return
 * 1 point for every Sack
 * 3 points for every Blocked Kick
 * 0.50 points for every Tackle for Loss
