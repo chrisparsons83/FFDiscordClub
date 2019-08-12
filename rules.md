@@ -140,7 +140,7 @@
 
 8.5. If members are deemed to have colluded, both members are immediately removed from the Club.
 
-8.6. Players cannot be traded for FAAB budget.
+8.6. FAAB budget may not be traded.
 
 8.7. There is no limit on the number of trades that can be performed.
 
@@ -172,7 +172,7 @@
 1. Potential members that waitlisted for the FFDiscord Club but did not receive a team.
 2. Potential members that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
 
-10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
+10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No players will be added/dropped from the roster; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
 
 10.7. Members that fill a team mid-season will be given priority registration for the following season.
 
@@ -229,7 +229,7 @@
 
 ## 16. Re-Entry
 
-16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
+16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons may optionally count towards priority placement at the discretion of the commissioners.
 
 16.2. Members removed from the FFDiscord Club for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
