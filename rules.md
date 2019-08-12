@@ -140,7 +140,7 @@
 
 8.5. If members are deemed to have colluded, both members are immediately removed from the Club.
 
-8.6. Players cannot be traded for FAAB budget.
+8.6. FAAB budget may not be traded.
 
 8.7. There is no limit on the number of trades that can be performed.
 
@@ -172,7 +172,7 @@
 1. Potential members that waitlisted for the FFDiscord Club but did not receive a team.
 2. Potential members that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
 
-10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No roster swaps will be made; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
+10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No players will be added/dropped from the roster; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
 
 10.7. Members that fill a team mid-season will be given priority registration for the following season.
 
@@ -213,9 +213,11 @@
 
 14.1b. With three leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
 
+14.1c. With four leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The winner of each Tier Two league will be promoted to the Champions League the following season. In addition, the top two players across Tier Two with the highest regular-season Points For that do not win their respective Leagues will also be promoted to the Champions League the following season.
+
 ![Diagram of Tier One and Tier Two](https://www.ffdiscord.club/images/ffdiscordclub-tiers.png)
 
-14.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to one of the members that was the highest-finishing, non-promoting member in their Tier Two league at the end of the season and meets all other requirements for membership. That member is drawn at random from the pool of members that are eligible. Subsequent spots will be drawn at random until that pool of members is exhausted. If further spots are needed, the process will be repeated with members that were the second-highest-finishing, non-promoting member in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
+14.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to the member that had the highest Points-For across the Tier Two leagues at the end of the regular season that did not already receive a promotion to the Champions League, as long as they meet all other requirements for membership. This will continue until there is a full roster of 12 for the Champions League.
 
 14.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant member realignment).
 
@@ -227,7 +229,7 @@
 
 ## 16. Re-Entry
 
-16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons will not count towards priority placement.
+16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons may optionally count towards priority placement at the discretion of the commissioners.
 
 16.2. Members removed from the FFDiscord Club for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
