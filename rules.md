@@ -217,7 +217,7 @@
 
 ![Diagram of Tier One and Tier Two](https://www.ffdiscord.club/images/ffdiscordclub-tiers.png)
 
-14.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to one of the members that was the highest-finishing, non-promoting member in their Tier Two league at the end of the season and meets all other requirements for membership. That member is drawn at random from the pool of members that are eligible. Subsequent spots will be drawn at random until that pool of members is exhausted. If further spots are needed, the process will be repeated with members that were the second-highest-finishing, non-promoting member in their Tier Two league at the end of the season. This will continue until there is a full roster of 12 for the Champions League.
+14.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to the member that had the highest Points-For across the Tier Two leagues at the end of the regular season that did not already receive a promotion to the Champions League, as long as they meet all other requirements for membership. This will continue until there is a full roster of 12 for the Champions League.
 
 14.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant member realignment).
 
