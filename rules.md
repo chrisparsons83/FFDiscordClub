@@ -94,7 +94,7 @@
 
 6.2. Draft order will be determined by the members of each individual league so long as the order is agreed by majority vote to be sufficiently random.
 
-6.2b. The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
+6.2b. The method of randomization is to only be used to determine the actual draft order.
 
 6.3. It is important that members respond in a reasonable amount of time at the point when the leagues are being created and draft times are being selected. Members that don't respond within 72 hours for selecting preferred draft times or aren't signed up for their leagues 72 hours before the draft is scheduled to start may be replaced via the waitlist.
 
