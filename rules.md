@@ -140,9 +140,7 @@
 
 8.5. If members are deemed to have colluded, both members are immediately removed from the Club.
 
-8.6. FAAB budget may not be traded.
-
-8.7. There is no limit on the number of trades that can be performed.
+8.6. There is no limit on the number of trades that can be performed.
 
 ## 9. Regular Season
 
