@@ -120,7 +120,7 @@
 
 7.4. The minimum bid for a waiver is $0.
 
-7.5. If there is a tie between multiple teams on the amount bid for a player, the tiebreaker is determined by the inverse order of standings.
+7.5. If there is a tie between multiple teams on the amount bid for a player, the tiebreaker is determined by the priority order listed on the website hosting the leagues.
 
 7.6. It is expected that all players in the NFL universe may be rostered. This rule may be dependent on the hosting site in question. FFDiscord Club commissioners do not have control over adding players into the system that are missing.
 
@@ -252,3 +252,5 @@
 19.1c. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
 
 19.2. Any rules changes may be suggested to the Commissioners by members, but all rules changes will ultimately be determined by the Commissioners.
+
+19.3. If there is a discrepancy between the published rules on this ruleset and the settings within the website hosting the leagues, the commissioners reserve the right to amend these rules mid-season to match the settings on the website hosting the leagues.
