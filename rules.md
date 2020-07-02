@@ -6,7 +6,7 @@
 
 ## 2. Commissioners
 
-2.1. The commissioners of the FFDiscord Club are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108).
+2.1. The commissioners of the FFDiscord Club are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108), Noro (noro#1869).
 
 2.2. Changes to the commissioners are determined by the current body of commissioners, and are limited to members with the Administrator role within the FFDiscord server.
 
@@ -156,7 +156,7 @@
 
 ## 10. Valid Lineups
 
-10.1. Lineups lock individually at scheduled game time.
+10.1. Lineups lock individually at scheduled game time. This includes players on the bench.
 
 10.2. Each team is expected to field a valid lineup (no bye week players, no players on IR). See rule 10.5 for situations where an empty lineup slot is allowed.
 
