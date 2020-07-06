@@ -31,7 +31,6 @@
 * 1 TE
 * 1 RB/WR/TE
 * 1 D/ST
-* 1 K
 * 6 Bench slots
 
 4.2. There are no limits on the number of players at one position a player may hold on their team.
@@ -62,13 +61,6 @@
 * 6 points for every Offensive Fumble Recovery TD
 * 6 points for every Punt Return TD
 * 6 points for every Kick Return TD
-
-### Kicking
-* 1 point for every Extra Point Made
-* -1 point for every Extra Point Missed
-* 3 points for every Field Goal Made
-* 0.1 point for every Field Goal Made yard over 30
-* -1 point for every Field Goal Missed Between 0-39 Yards
 
 ### Defense/Special Teams
 * 6 points for every Defensive TD from an Interception
