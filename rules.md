@@ -215,6 +215,8 @@
 
 14.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
 
+14.5. If the NFL does not complete 16 regular-season weeks, then there will be no promotion/relegation for that season.
+
 ## 15. Rookie Members
 
 15.1. New members to the FFDiscord Club will begin in Tier Two.
