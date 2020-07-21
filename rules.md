@@ -16,7 +16,7 @@
 
 3.1a. The majority of communication for the FFDiscord Club is done through the FFDiscord server. It is expected that members are reasonably active and responsive to inquiries through the server.
 
-3.2. Members from the previous season will be given a period of one week after registration is opened for priority placement.
+3.2. Members from the previous season will be given a period of at least one week after registration is opened for priority placement. The deadline for priority registration will be announced on the server prominently.
 
 3.3. After priority placement of members of the previous season, new members are added based on their registration submission date and time.
 
@@ -29,9 +29,10 @@
 * 2 RBs
 * 2 WRs
 * 1 TE
-* 1 RB/WR/TE
+* 2 RB/WR/TE
 * 1 D/ST
 * 6 Bench slots
+* 1 IR
 
 4.2. There are no limits on the number of players at one position a player may hold on their team.
 
@@ -146,6 +147,8 @@
 
 9.4. Weekly head-to-head matchups will be determined by the points scored by a team's starters.
 
+9.5. In addition to weekly head-to-head matchups, there will be an additional game played against the median score of the league for that week by all members. These games counts towards the league standings. For most weeks, this means the top six fantasy point scoring members of the league in a given week will earn an additional win, and the bottom six fantasy point scoring members of the league will earn an additional loss.
+
 ## 10. Valid Lineups
 
 10.1. Lineups lock individually at scheduled game time. This includes players on the bench.
@@ -159,6 +162,8 @@
 10.5. Members that do not field a valid lineup must explain their reason, whether it be intentional or unintentional, before waivers clear the following week. Members that fail to do this will have their team considered abandoned, and eligible for mid-season replacement.
 
 10.5b. If a member explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
+
+10.5c. If a member does not field a valid lineup for a player declared out due to IR announced that morning because of COVID-19, this is an acceptable reason.
 
 10.6. Teams eligible for mid-season replacement will be filled in the following order:
 1. Potential members that waitlisted for the FFDiscord Club but did not receive a team.
@@ -215,7 +220,7 @@
 
 14.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
 
-14.5. If the NFL does not complete 16 regular-season weeks, then there will be no promotion/relegation for that season.
+14.5. If the NFL does not complete 16 regular-season weeks, then there will be no promotion/relegation for that season, and the following season will contain the same members in each tier. Players within a tier will be reshuffled if there are multiple leagues within the tier.
 
 ## 15. Rookie Members
 
