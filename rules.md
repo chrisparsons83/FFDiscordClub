@@ -119,7 +119,7 @@
 
 ## 8. Trading
 
-8.1. Trades will open up immediately upon the conclusion of the draft, and will remain open until the trade deadline, which is in week 10 of the NFL season.
+8.1. Trades will open up immediately upon the conclusion of the draft, and will remain open until the trade deadline, which is in week 13 of the NFL season.
 
 8.2. Trades will not have a review period (effective immediately when accepted) and will be conducted under the integrity system.
 
@@ -131,7 +131,7 @@
 
 8.5. If members are deemed to have colluded, both members are immediately removed from the Club.
 
-8.6. FAAB budget may not be traded.
+8.6. FAAB budget may be traded.
 
 8.7. There is no limit on the number of trades that can be performed.
 
