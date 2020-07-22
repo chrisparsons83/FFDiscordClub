@@ -6,7 +6,7 @@
 
 ## 2. Commissioners
 
-2.1. The commissioners of the FFDiscord Club are the following users: IceMaine (IceMaine#7407), Christhrowsrocks (Parsons#9571), Madmike (madmike577#1108).
+2.1. The commissioners of the FFDiscord Club are the following users: Christhrowsrocks (Parsons#9571), IceMaine (IceMaine#7407), Madmike (madmike577#1108), Noro (noro#1869).
 
 2.2. Changes to the commissioners are determined by the current body of commissioners, and are limited to members with the Administrator role within the FFDiscord server.
 
@@ -16,7 +16,7 @@
 
 3.1a. The majority of communication for the FFDiscord Club is done through the FFDiscord server. It is expected that members are reasonably active and responsive to inquiries through the server.
 
-3.2. Members from the previous season will be given a period of one week after registration is opened for priority placement.
+3.2. Members from the previous season will be given a period of at least one week after registration is opened for priority placement. The deadline for priority registration will be announced on the server prominently.
 
 3.3. After priority placement of members of the previous season, new members are added based on their registration submission date and time.
 
@@ -29,10 +29,10 @@
 * 2 RBs
 * 2 WRs
 * 1 TE
-* 1 RB/WR/TE
+* 2 RB/WR/TE
 * 1 D/ST
-* 1 K
 * 6 Bench slots
+* 1 IR
 
 4.2. There are no limits on the number of players at one position a player may hold on their team.
 
@@ -63,13 +63,6 @@
 * 6 points for every Punt Return TD
 * 6 points for every Kick Return TD
 
-### Kicking
-* 1 point for every Extra Point Made
-* -1 point for every Extra Point Missed
-* 3 points for every Field Goal Made
-* 0.1 point for every Field Goal Made yard over 30
-* -1 point for every Field Goal Missed Between 0-39 Yards
-
 ### Defense/Special Teams
 * 6 points for every Defensive TD from an Interception
 * 6 points for every Defensive TD from a Fumble Recovery
@@ -92,9 +85,7 @@
 
 6.1. Draft Date/Time will be determined by the members of each individual league to accommodate all members as best as possible. It may not be possible to accommodate all members, but the goal is to accommodate the most members.
 
-6.2. Draft order will be determined by the members of each individual league so long as the order is agreed by majority vote to be sufficiently random.
-
-6.2b. The draft order may be either completely random or pick position may be chosen by individual members provided the order in which the members are able to pick is randomly generated.
+6.2. Draft order is randomized at least one hour before the draft. The method of randomization may be determined by the members of the individual league, but it must be fully random, as deemed by the commissioners.
 
 6.3. It is important that members respond in a reasonable amount of time at the point when the leagues are being created and draft times are being selected. Members that don't respond within 72 hours for selecting preferred draft times or aren't signed up for their leagues 72 hours before the draft is scheduled to start may be replaced via the waitlist.
 
@@ -120,7 +111,7 @@
 
 7.4. The minimum bid for a waiver is $0.
 
-7.5. If there is a tie between multiple teams on the amount bid for a player, the tiebreaker is determined by the inverse order of standings.
+7.5. If there is a tie between multiple teams on the amount bid for a player, the tiebreaker is determined by the priority order listed on the website hosting the leagues.
 
 7.6. It is expected that all players in the NFL universe may be rostered. This rule may be dependent on the hosting site in question. FFDiscord Club commissioners do not have control over adding players into the system that are missing.
 
@@ -128,7 +119,7 @@
 
 ## 8. Trading
 
-8.1. Trades will open up immediately upon the conclusion of the draft, and will remain open until the trade deadline, which is in week 10 of the NFL season.
+8.1. Trades will open up immediately upon the conclusion of the draft, and will remain open until the trade deadline, which is in week 13 of the NFL season.
 
 8.2. Trades will not have a review period (effective immediately when accepted) and will be conducted under the integrity system.
 
@@ -136,11 +127,13 @@
 
 8.4. The trade review will be run by the commissioners of the Club.
 
-8.4b. If a commissioner is involved in the trade that is being reviewed, they will recuse themselves from the review.
+8.4a. If a commissioner is involved in the trade that is being reviewed, they will recuse themselves from the review.
 
 8.5. If members are deemed to have colluded, both members are immediately removed from the Club.
 
-8.6. There is no limit on the number of trades that can be performed.
+8.6. FAAB budget may be traded.
+
+8.7. There is no limit on the number of trades that can be performed.
 
 ## 9. Regular Season
 
@@ -152,9 +145,11 @@
 
 9.4. Weekly head-to-head matchups will be determined by the points scored by a team's starters.
 
+9.5. In addition to weekly head-to-head matchups, there will be an additional game played against the median score of the league for that week by all members. The median score is defined in a 12-member league as the mean of the 6th and 7th place scores for that week. These games counts towards the league standings. For most weeks, this means the top six fantasy point scoring members of the league in a given week will earn an additional win, and the bottom six fantasy point scoring members of the league will earn an additional loss.
+
 ## 10. Valid Lineups
 
-10.1. Lineups lock individually at scheduled game time.
+10.1. Lineups, both starting and bench players, lock individually at scheduled game time.
 
 10.2. Each team is expected to field a valid lineup (no bye week players, no players on IR). See rule 10.5 for situations where an empty lineup slot is allowed.
 
@@ -164,13 +159,15 @@
 
 10.5. Members that do not field a valid lineup must explain their reason, whether it be intentional or unintentional, before waivers clear the following week. Members that fail to do this will have their team considered abandoned, and eligible for mid-season replacement.
 
-10.5b. If a member explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
+10.5a. If a member explains their reason after their team becomes eligible for mid-season replacement but before the team has been reassigned to a new owner, the Commissioners may remove the team's eligibility for mid-season replacement and leave the team with the original owner at their discretion.
+
+10.5b. If a member does not field a valid lineup for a player declared out due to IR announced that morning because of COVID-19, this is an acceptable reason.
 
 10.6. Teams eligible for mid-season replacement will be filled in the following order:
 1. Potential members that waitlisted for the FFDiscord Club but did not receive a team.
 2. Potential members that volunteer to take over the team based on a notification on the team's eligibility to receive a new owner on the Discord server.
 
-10.6b. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No players will be added/dropped from the roster; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
+10.6a. If a team eligible for mid-season replacement does not have an owner in time for upcoming games, the Commissioners will set the roster based on maximizing projected fantasy points listed on the website. No players will be added/dropped from the roster; this may cause a team to not field a valid lineup, particularly if a kicker or D/ST is on bye.
 
 10.7. Members that fill a team mid-season will be given priority registration for the following season.
 
@@ -209,9 +206,9 @@
 
 14.1. At the end of each season, a certain number of top and bottom members in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
 
-14.1b. With three leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
+14.1a. With three leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
 
-14.1c. With four leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The winner of each Tier Two league will be promoted to the Champions League the following season. In addition, the top two players across Tier Two with the highest regular-season Points For that do not win their respective Leagues will also be promoted to the Champions League the following season.
+14.1b. With four leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The winner of each Tier Two league will be promoted to the Champions League the following season. In addition, the top two players across Tier Two with the highest regular-season Points For that do not win their respective Leagues will also be promoted to the Champions League the following season.
 
 ![Diagram of Tier One and Tier Two](https://www.ffdiscord.club/images/ffdiscordclub-tiers.png)
 
@@ -220,6 +217,8 @@
 14.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant member realignment).
 
 14.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
+
+14.5. If the NFL does not complete 16 regular-season weeks, then there will be no promotion/relegation for that season, and the following season will contain the same members in each tier. Players within a tier will be reshuffled if there are multiple leagues within the tier.
 
 ## 15. Rookie Members
 
@@ -245,8 +244,10 @@
 
 19.1. Any situation not covered within the rules outlined above will be determined by the Commissioners of the Club.  Their decision is final.
 
-19.1b. If there is any rule clarification that directly involves a commissioner, the commissioner in question will recuse himself from the decision.
+19.1a. If there is any rule clarification that directly involves a commissioner, the commissioner in question will recuse himself from the decision.
 
-19.1c. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
+19.1b. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
 
 19.2. Any rules changes may be suggested to the Commissioners by members, but all rules changes will ultimately be determined by the Commissioners.
+
+19.3. If there is a discrepancy between the published rules on this ruleset and the settings within the website hosting the leagues, the commissioners reserve the right to amend these rules mid-season to match the settings on the website hosting the leagues.
