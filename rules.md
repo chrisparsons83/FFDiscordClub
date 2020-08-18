@@ -36,6 +36,8 @@
 
 4.2. There are no limits on the number of players at one position a player may hold on their team.
 
+4.3. The IR position may be used for players that are ruled out due to COVID-19, or designated as IR by their team. Players listed as "Out", "Doubtful", "N/A", "DNR", or "Susp" are not eligible for IR.
+
 ## 5. Scoring
 
 5.1. All leagues will follow the decimal scoring system below.
