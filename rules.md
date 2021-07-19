@@ -2,7 +2,7 @@
 
 ## 1. Object
 
-1.1. The object of the FFDiscord Club is to win head-to-head matches of fantasy football, win promotions to Tier One, and win the premier league to be crowned the FFDiscord Club Champion.
+1.1. The object of the FFDiscord Club is to win head-to-head matches of fantasy football, win promotions to Tier One, and win the Champions League to be crowned the FFDiscord Club Champion.
 
 ## 2. Commissioners
 
