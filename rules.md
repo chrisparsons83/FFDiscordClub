@@ -224,8 +224,6 @@
 
 15.1a. With four leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The winner of each Tier Two league will be promoted to the Champions League the following season. In addition, the player across Tier Two with the highest regular-season Points For that does not win their respective League will also be promoted to the Champions League the following season. Lastly, the player that wins The Cup will also receive a promotion to the Champions League.
 
-![Diagram of Tier One and Tier Two](https://www.ffdiscord.club/images/ffdiscordclub-tiers.png)
-
 15.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to the member that had the highest Points-For across the Tier Two leagues at the end of the regular season that did not already receive a promotion to the Champions League, as long as they meet all other requirements for membership. This will continue until there is a full roster of 12 for the Champions League.
 
 15.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season, with the exception of winning The Cup, and during seasons which involve significant member realignment.
