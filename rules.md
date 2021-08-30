@@ -173,83 +173,95 @@
 
 10.7. Members that fill a team mid-season will be given priority registration for the following season.
 
-## 11. Tiebreakers
+## 11. The Cup
 
-11.1. There are no tiebreaker settings for regular season matches as fractional scoring does not frequently yield ties.
+11.1. The Cup is a single elimination tournament that takes place between all teams in all leagues.
 
-11.2. Tiebreakers for playoff seeds are broken in the following order:
+11.2. The weeks before the first NFL bye week will be used to set seeding for the single elimination bracket. Seeding is based on Points For a manager earns during those weeks.
+
+11.3. Starting in the first NFL bye week, teams will face off against one another based on their placement in the overall Cup bracket. The fantasy points a manager's team scores in their weekly matchup will also apply to their Cup match.
+
+11.4. The team winning the cup match will advance to the next round of the bracket. This will proceed until all but one team have been eliminated, who will be named the Cup Champion.
+
+11.5. The bracket will be sized so that matchups only happen during bye weeks. If there are more bye weeks than rounds, later rounds will become two-week matchups.
+
+## 12. Tiebreakers
+
+12.1. There are no tiebreaker settings for regular season matches as fractional scoring does not frequently yield ties.
+
+12.2. Tiebreakers for playoff seeds are broken in the following order:
 1. Highest Overall Record
 2. Most Points For
 3. Most Points Against
 
-11.3. If a playoff match is tied, then the higher seed will advance.
+12.3. If a playoff match is tied, then the higher seed will advance.
 
-## 12. Playoffs
+12.4. If a Cup match is tied, then the higher seed will advance.
 
-12.1. The playoffs will begin with NFL Week 15 and end at the conclusion of NFL Week 17.
+## 13. Playoffs
 
-12.2. The six teams with the best regular season records within each individual league will be eligible for the playoffs. Ties are broken based on the tiebreaking system in rule 11.2.
+13.1. The playoffs will begin with NFL Week 15 and end at the conclusion of NFL Week 17.
 
-12.3. The top two seeds will receive a bye in the first round.
+13.2. The six teams with the best regular season records within each individual league will be eligible for the playoffs. Ties are broken based on the tiebreaking system in rule 11.2.
 
-12.4. Playoff matches will be one-week playoff games.
+13.3. The top two seeds will receive a bye in the first round.
 
-## 13. League Hierarchy
+13.4. Playoff matches will be one-week playoff games.
 
-13.1. The FFDiscord Club is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-member league, known as the Champions League. Tier Two consists of multiple 12-member leagues, and can vary in quantity of leagues from season to season.
+## 14. League Hierarchy
 
-13.2. At the beginning of each season, all eligible members that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
+14.1. The FFDiscord Club is distributed into two "tiers": Tier One, and Tier Two. Tier One consists of a single 12-member league, known as the Champions League. Tier Two consists of multiple 12-member leagues, and can vary in quantity of leagues from season to season.
 
-13.3. Members only play against opponents within his or her league.
+14.2. At the beginning of each season, all eligible members that are not within Tier One will be placed into one of the leagues within Tier Two. Placement in those leagues is done by random draw.
 
-13.4. There is only one champion per league (i.e. no ties or co-champions).
+14.3. Members only play against opponents within his or her league.
 
-## 14. Promotion/Relegation
+14.4. There is only one champion per league (i.e. no ties or co-champions).
 
-14.1. At the end of each season, a certain number of top and bottom members in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
+## 15. Promotion/Relegation
 
-14.1a. With three leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The top two finishers based on the playoffs in each league in Tier Two will be promoted to the Champions League the following season.
+15.1. At the end of each season, a certain number of top and bottom members in each league will be promoted/relegated to the next higher/lower tier. These promotion and relegation zones are set at the beginning of the season, with sizes determined by roster size of the given and proximal tier and association pyramid structure.
 
-14.1b. With four leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The winner of each Tier Two league will be promoted to the Champions League the following season. In addition, the top two players across Tier Two with the highest regular-season Points For that do not win their respective Leagues will also be promoted to the Champions League the following season.
+15.1a. With four leagues within Tier Two, the Champions League bottom six finishers in the final standings will be relegated down to Tier Two. The winner of each Tier Two league will be promoted to the Champions League the following season. In addition, the player across Tier Two with the highest regular-season Points For that does not win their respective League will also be promoted to the Champions League the following season. Lastly, the player that wins The Cup will also receive a promotion to the Champions League.
 
 ![Diagram of Tier One and Tier Two](https://www.ffdiscord.club/images/ffdiscordclub-tiers.png)
 
-14.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to the member that had the highest Points-For across the Tier Two leagues at the end of the regular season that did not already receive a promotion to the Champions League, as long as they meet all other requirements for membership. This will continue until there is a full roster of 12 for the Champions League.
+15.2. In the case of any vacancy in the Champions League before the start of the season, the first open spot will be given to the member that had the highest Points-For across the Tier Two leagues at the end of the regular season that did not already receive a promotion to the Champions League, as long as they meet all other requirements for membership. This will continue until there is a full roster of 12 for the Champions League.
 
-14.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season (except during seasons which involve significant member realignment).
+15.3. Under no circumstance will a member who finishes in the relegation zone of a tier return to that tier the following season, with the exception of winning The Cup, and during seasons which involve significant member realignment.
 
-14.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
+15.4. The promotion and relegation criteria for a given season will be determined and published before the start of the season.
 
-14.5. If the NFL does not complete 16 regular-season weeks, then there will be no promotion/relegation for that season, and the following season will contain the same members in each tier. Players within a tier will be reshuffled if there are multiple leagues within the tier.
+15.5. If the NFL does not complete 17 regular-season weeks, then there will be no promotion/relegation for that season, and the following season will contain the same members in each tier. Players within a tier will be reshuffled if there are multiple leagues within the tier.
 
-## 15. Rookie Members
+## 16. Rookie Members
 
-15.1. New members to the FFDiscord Club will begin in Tier Two.
+16.1. New members to the FFDiscord Club will begin in Tier Two.
 
-## 16. Re-Entry
+## 17. Re-Entry
 
-16.1. If a member leaves the league for a season, when applying for re-entry, their past seasons may optionally count towards priority placement at the discretion of the commissioners.
+17.1. If a member leaves the league for a season, when applying for re-entry, their past seasons may optionally count towards priority placement at the discretion of the commissioners.
 
-16.2. Members removed from the FFDiscord Club for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
+17.2. Members removed from the FFDiscord Club for disciplinary reasons must be approved by a majority of the commissioners in order to be readmitted to the league.
 
-## 17. League Growth and Expansion
+## 18. League Growth and Expansion
 
-17.1. In future seasons, as the number of members increases, leagues will be added in Tier Two to accommodate the growth.
+18.1. In future seasons, as the number of members increases, leagues will be added in Tier Two to accommodate the growth.
 
-## 18. Player Conduct
+## 19. Player Conduct
 
-18.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated. Don't rage quit and drop all of your players when your team is out of the playoffs.
+19.1. Don't be a jerk, and be respectful to others. Abuse, disrespect, and assholishness are not tolerated. Don't rage quit and drop all of your players when your team is out of the playoffs.
 
-18.2. Failure to comply with rule 18.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
+19.2. Failure to comply with rule 18.1 is grounds for removal from the league. Warnings can optionally be provided by commissioners, but are not required to be removed from the league.
 
-## 19. Rules
+## 20. Rules
 
-19.1. Any situation not covered within the rules outlined above will be determined by the Commissioners of the Club.  Their decision is final.
+20.1. Any situation not covered within the rules outlined above will be determined by the Commissioners of the Club.  Their decision is final.
 
-19.1a. If there is any rule clarification that directly involves a commissioner, the commissioner in question will recuse himself from the decision.
+20.1a. If there is any rule clarification that directly involves a commissioner, the commissioner in question will recuse himself from the decision.
 
-19.1b. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
+20.1b. If the ruling in question is pertinent to all leagues, these rules may be amended by the Commissioners for clarification going forward.
 
-19.2. Any rules changes may be suggested to the Commissioners by members, but all rules changes will ultimately be determined by the Commissioners.
+20.2. Any rules changes may be suggested to the Commissioners by members, but all rules changes will ultimately be determined by the Commissioners.
 
-19.3. If there is a discrepancy between the published rules on this ruleset and the settings within the website hosting the leagues, the commissioners reserve the right to amend these rules mid-season to match the settings on the website hosting the leagues.
+20.3. If there is a discrepancy between the published rules on this ruleset and the settings within the website hosting the leagues, the commissioners reserve the right to amend these rules mid-season to match the settings on the website hosting the leagues.
