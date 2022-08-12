@@ -93,7 +93,7 @@
 
 6.4. The draft will be 15 rounds in a snake format.
 
-6.5. All drafts will be run using a 90-second pick timer.
+6.5. All drafts will be run using a 60-second pick timer.
 
 6.6. Draft picks cannot be traded.
 
